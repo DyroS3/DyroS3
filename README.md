@@ -1,17 +1,16 @@
 # Hello there 👋
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+![0014026573881271_b](https://user-images.githubusercontent.com/64310374/218391380-f3ff5ed2-652b-4968-b8e9-2a9993d5fe1a.jpg)
 
-I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kubernetes** ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Website** for a living and also **Write some blogs**. 🌈    
+做一名Github热爱者该做的 💻⎈🐳 **领域内小学生** 📝 **代码爱好者** 🎈 **开源代码** 🌐 **网站架设** 也有时候书写 **个人博客**. 🌈    
 
-* 🧐   Interested in full stack. Recent focus on Infra.
-* 💼   Used to be a Staff Engineer at Binance.com, but now I'm a CMU Student.
-* 🎓   Master of Science in Software Engineering, B.S. in Computer Science. Major GPA 3.90/4.0, GPA 3.75/4.0, TOP 3%.
-* 🌱   Currently learning Linux, Rust, Solidity, Math & Philosophy.
-* 📚   Reading 《Systems Performance 2nd Ed.》《BPF Performance Tools book》.
-* 💻   With 4 years' computer science and technology education and 5 years' development working experience.
-* ⛵   Encouraging people for open source collaborations.
-* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 7.67 million PV / 4.31 million UV).
+* 🧐   对全栈感兴趣，潜心学习。
+* 💼   社会的小学生，什么都不会，什么都想学习
+* 🎓   经营管理专业，专科，
+* 🌱   目前正在学习 Win、Linux、各项证书资料。
+* 📚   目前正在阅读 《公共基础知识.》《教师资格证书》.
+* 💻   精通开机，关机，重启等电脑理论知识
+* ⛵   鼓励人们进行开源协作。
 
 <details>
   <summary>Some other achievements about me~e~e</summary>
@@ -33,10 +32,10 @@ I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kuberne
 * 👑   Some GitHub statistical reports:
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfrost&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=halfrost&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="halfrost's Github Stats" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=halfrost&column=7" alt="halfrost's Github Trophy" />
-<img align="center" src="https://github.com/halfrost/halfrost/raw/master/timeline-drop/output/dropped-timeline-halfrost.gif" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyroS3&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DyroS3&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="DyroS3's Github Stats" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=DyroS3&column=7" alt="DyroS3's Github Trophy" />
+<img align="center" src="https://github.com/DyroS3/DyroS3/raw/master/timeline-drop/output/dropped-timeline-DyroS3.gif" />
 </p>
 
 </details>
